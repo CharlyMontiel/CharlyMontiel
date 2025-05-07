@@ -1,16 +1,18 @@
-## Hi there 👋
+# Carlos Montiel | Backend Developer
 
-<!--
-**CharlyMontiel/CharlyMontiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**IT Support Specialist | Backend Developer | API Management | Database Management | Python | .NET Enthusiast**
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I am a backend developer specializing in API management and database administration. Currently, I am actively practicing and expanding my skills in backend development, API management, and cloud technologies, focusing on Python and .NET.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- API Development (FastAPI, .NET)  
+- Database Management (SQL Server)  
+- Backend Development (Python, .NET)  
+
+## 📌 Current Projects
+- API for Gift Cards Management (FastAPI, SQL Server)  
+- Learning Salesforce Basics  
+
+## 📫 Contact Me
+- 📧 carlosmontiel20678@gmail.com  
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/carlos-montiel-b5069517b/)
